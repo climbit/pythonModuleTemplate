@@ -18,6 +18,9 @@ Welcome to pythonModuleTemplate's documentation!
    * pypi
    * tox?
    * pytest
+   * Add logging
+   * Add docstrings
+   * Add argparse
 
 
 
