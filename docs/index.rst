@@ -9,6 +9,16 @@ Welcome to pythonModuleTemplate's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+.. todo::
+   * get module runing
+   * get coverage runing
+   * setup read the docs
+   * get punch runing with git
+   * requirements
+   * pypi
+   * tox?
+   * pytest
 
 
 
