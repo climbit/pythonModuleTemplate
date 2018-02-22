@@ -13,7 +13,6 @@ Welcome to pythonModuleTemplate's documentation!
 .. todo::
    * get module runing
    * get coverage runing
-   * setup read the docs
    * get punch runing with git
    * requirements
    * pypi
