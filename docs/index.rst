@@ -11,7 +11,6 @@ Welcome to pythonModuleTemplate's documentation!
    :caption: Contents:
    
 .. todo::
-   * get module runing
    * get coverage runing
    * get punch runing with git
    * requirements
@@ -21,6 +20,12 @@ Welcome to pythonModuleTemplate's documentation!
    * Add logging
    * Add docstrings
    * Add argparse
+
+Features
+====================
+* travis.ci
+* punch
+* sphinx
 
 
 
