@@ -10,7 +10,7 @@ python:
   #- pip install -r requirements.txt
   #- pip install coveralls
 # command to run tests
-#script:
+script:
   python pmt/pmt.py
 #  coverage run --source=pmt pmt.py
 #  pytest
