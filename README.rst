@@ -11,3 +11,4 @@ pythonModuleTemplate
 ======================
 
 
+http://pythonmoduletemplate.readthedocs.io/en/latest/

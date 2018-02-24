@@ -11,15 +11,19 @@ Welcome to pythonModuleTemplate's documentation!
    :caption: Contents:
    
 .. todo::
-   * get coverage runing
+   * get coveralls runing
    * get punch runing with git
-   * requirements
-   * pypi
+   * requirements (venv/virtualenv + freeze, pigar, pipreqs)
+   * pypi (setup.py, twine, wheel, conda?)
    * tox?
    * pytest
    * Add logging
    * Add docstrings
    * Add argparse
+   * appveyor? (windows ci)
+   * pyup? (security and dependency)
+   * codecov? 
+   
 
 Features
 ====================
