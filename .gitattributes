@@ -1,0 +1,21 @@
+# defaults all to lf line ending
+* text=auto eol=lf
+
+# git
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+# make
+Makefile
+makefile
+
+# python
+*.py text eol=lf
+
+# restructuredtext
+*.rst text eol=lf
+
+
+# image
+*.jpg binary
+*.png binary
