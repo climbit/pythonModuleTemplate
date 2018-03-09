@@ -4,7 +4,7 @@ GLOBALS = {
     'serializer': '{{major}}.{{minor}}.{{patch}}',
 }
 
-FILES = ['pmt/__version__.py', 'docs/conf.py']
+FILES = ['pmt/__version__.py', 'docs/conf.py', 'setup.py']
 
 VERSION = ['major', 'minor', 'patch']
 
